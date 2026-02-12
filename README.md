@@ -1,5 +1,14 @@
-![](https://github-readme-stats.vercel.app/api?username=michaelooo&count_private=true&show_icons=true&hide=prs)
+### 👋 你好，我是 Michael
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+```bash
+$ whoami
+Michael — 全栈工程师
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=michaelooo.visitor-badge)
+$ cat interests.txt
+🤖 AI Coding
+💻 全栈开发
+⚡ 效率工具 / 效率控
+
+$ git log --oneline -1
+feat: 永远保持好奇心，永远在学习新东西
+```
