@@ -14,3 +14,15 @@ feat: 永远保持好奇心，永远在学习新东西
 ```
 
 [![Tokscale Stats](https://tokscale.ai/api/embed/Michaelooo/svg)](https://tokscale.ai/u/Michaelooo)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Michaelooo" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Michaelooo&theme=onedark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,bash,py,docker" />
+</p>
