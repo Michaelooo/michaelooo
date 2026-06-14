@@ -18,3 +18,13 @@ feat: 永远保持好奇心，永远在学习新东西
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,bash,py,docker" />
 </p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Michaelooo/michaelooo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Michaelooo/michaelooo/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Michaelooo/michaelooo/output/github-snake.svg" />
+  </picture>
+</p>
